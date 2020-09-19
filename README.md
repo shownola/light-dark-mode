@@ -8,4 +8,4 @@ Light-on-dark color scheme, also called dark mode, is a supplemental mode that u
 * Create your HTML document
 * Create the CSS for document and for dark mode.
 * Add a switch/toggler to toggle between light and dark mode
-* Add functionality to the toggler to toggle between light and dark
+* Add functionality to the toggler to toggle between light and dark using javascript/eventListeners
